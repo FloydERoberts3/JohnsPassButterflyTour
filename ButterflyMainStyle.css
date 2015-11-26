@@ -1,0 +1,29 @@
+<style type="text/css"   manifest="/JPOButterflywalkmanifest.manifest">
+/*This css form is for data submission inputs for citizen science pages and inputs */
+
+h1{color:red;}
+body {
+
+
+}
+.instrbox {
+
+
+}
+
+
+.yellertextfield {
+	input {
+	background-color: red;
+	border: 15px solid #ccc;
+	}
+}
+.bluelabel {
+	label{
+	text : blue;
+	}
+}	
+
+
+
+</style>
